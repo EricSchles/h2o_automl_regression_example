@@ -10,3 +10,8 @@ specifically, `stopping_metric="deviance"`.
 
 With this the AutoML routinue does regression.
 
+## What to do next
+
+For more information on AutoML check out the docs here:
+
+http://docs.h2o.ai/h2o/latest-stable/h2o-docs/automl.html?highlight=rmse
